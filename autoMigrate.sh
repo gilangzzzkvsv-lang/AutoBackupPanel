@@ -20,7 +20,7 @@ display_welcome() {
   echo -e "script ini dibuat untuk mempermudah melakukan migrasi Pterodactyl."
   echo -e "Tidak ada yang harus diperjualbelikan karena script ini khusus untuk pengguna Pterodactyl."
   echo -e ""
-  echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 :"
+  echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 :"6289686464100
   echo -e "NDAK PUNYA"
   echo -e "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 :"
   echo -e "@IchanGaming"
